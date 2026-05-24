@@ -1,16 +1,31 @@
-## Hi there 👋
+# Dayna Morga
 
-<!--
-**dmorgz/dmorgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS in Information Technology & Web Development — DePaul University  
+Building a full-stack, AI, and backend portfolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### stats
+
+![Dayna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmorgz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmorgz&layout=compact&hide_border=true&theme=default)
+
+---
+
+### contact
+
+[linkedin](https://www.linkedin.com/in/daynamorga/) · [daynamorga@gmail.com](mailto:daynamorga@gmail.com)
