@@ -1,29 +1,43 @@
 <div align="center">
 
 <br>
+<br>
 
-**Dayna Morga**
+```
+dayna morga
+```
 
-<sub>BS in Information Technology & Web Development — DePaul University</sub>
+<br>
 
+<sub>bs in information technology & web development — depaul university</sub>
+<br>
+<sub>building a full-stack, ai, and backend portfolio</sub>
+
+<br>
 <br>
 
 ---
 
-<sub>javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; react &nbsp;·&nbsp; next.js &nbsp;·&nbsp; python &nbsp;·&nbsp; node.js &nbsp;·&nbsp; postgresql &nbsp;·&nbsp; supabase &nbsp;·&nbsp; openai</sub>
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,postgres,supabase&theme=light" />
+
+<br>
+<br>
 
 ---
 
 <br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=dmorgz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default&hide=stars)&nbsp;&nbsp;![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmorgz&layout=compact&hide_border=true&theme=default)
+<a href="https://www.linkedin.com/in/daynamorga/">
+  <img src="https://img.shields.io/badge/linkedin-daynamorga-black?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000&color=000000" />
+</a>
+&nbsp;
+<a href="mailto:daynamorga@gmail.com">
+  <img src="https://img.shields.io/badge/email-daynamorga@gmail.com-black?style=flat-square&logo=gmail&logoColor=white&labelColor=000000&color=000000" />
+</a>
 
 <br>
-
----
-
-<sub><a href="https://www.linkedin.com/in/daynamorga/">linkedin</a> &nbsp;·&nbsp; <a href="mailto:daynamorga@gmail.com">daynamorga@gmail.com</a></sub>
-
 <br>
 
 </div>
