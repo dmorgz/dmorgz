@@ -23,7 +23,7 @@
 
 **get in touch**
 
-<a href="https://www.linkedin.com/in/daynamorga/"><img src="https://img.shields.io/badge/linkedin-/in/daynamorga-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="mailto:daynamorga@gmail.com"><img src="https://img.shields.io/badge/email-daynamorga@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/daynamorga/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" /></a>&nbsp;&nbsp;<a href="mailto:daynamorga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" /></a>
 
 <br>
 
