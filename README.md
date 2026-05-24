@@ -1,31 +1,29 @@
-# Dayna Morga
+<div align="center">
 
-BS in Information Technology & Web Development — DePaul University  
-Building a full-stack, AI, and backend portfolio.
+<br>
 
----
+**Dayna Morga**
 
-### stack
+<sub>BS in Information Technology & Web Development — DePaul University</sub>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<br>
 
 ---
 
-### stats
-
-![Dayna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmorgz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmorgz&layout=compact&hide_border=true&theme=default)
+<sub>javascript &nbsp;·&nbsp; typescript &nbsp;·&nbsp; react &nbsp;·&nbsp; next.js &nbsp;·&nbsp; python &nbsp;·&nbsp; node.js &nbsp;·&nbsp; postgresql &nbsp;·&nbsp; supabase &nbsp;·&nbsp; openai</sub>
 
 ---
 
-### contact
+<br>
 
-[linkedin](https://www.linkedin.com/in/daynamorga/) · [daynamorga@gmail.com](mailto:daynamorga@gmail.com)
+![stats](https://github-readme-stats.vercel.app/api?username=dmorgz&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default&hide=stars)&nbsp;&nbsp;![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmorgz&layout=compact&hide_border=true&theme=default)
+
+<br>
+
+---
+
+<sub><a href="https://www.linkedin.com/in/daynamorga/">linkedin</a> &nbsp;·&nbsp; <a href="mailto:daynamorga@gmail.com">daynamorga@gmail.com</a></sub>
+
+<br>
+
+</div>
