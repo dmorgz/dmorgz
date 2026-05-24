@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=dayna+morga;full-stack+%2F+ai+%2F+backend;depaul+university+%2724)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=dayna+morga;full-stack+%2F+ai+%2F+backend;depaul+university+%2725)](https://git.io/typing-svg)
 
 <br>
 
